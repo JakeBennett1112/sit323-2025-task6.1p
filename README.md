@@ -1,0 +1,2 @@
+This task saw us create a kubernetes cluster and deploy the container to it. This task was challenging in regards to the set up. I enabled kubernetes in docker, installed heml through chocolety and then deployed the UI dashboard. After this was all
+set up I then created the two files for the sample user (service account and role binding file). From here i accessed the UI with the token I received. 
